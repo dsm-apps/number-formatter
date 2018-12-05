@@ -5,11 +5,11 @@ A small library that adds commas to numbers
 
 ## Installation
 
-  `npm install @dsm.apps/number-formatter`
+  `npm install number-formatter`
 
 ## Usage
 
-    var numFormatter = require('@dsm.apps/number-formatter');
+    var numFormatter = require('number-formatter');
 
     var formattedNum = numFormatter(35666);
   
